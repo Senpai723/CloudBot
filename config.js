@@ -12,7 +12,7 @@ global.sgc = process.env.LINK_GROUP
 global.ownernumber = process.env.NOWNER
 global.owner = [
   ['0'],
-  ['0'],
+  ['6282314858723', 'Yoga Fajar P', true],
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
